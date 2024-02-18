@@ -1,5 +1,3 @@
----
-
 # RanjanCoin Contract
 
 The RanjanCoin contract is a Solidity smart contract based on the ERC20 token standard. It provides functionalities for creating, transferring, and burning tokens on the Ethereum blockchain.
@@ -51,5 +49,3 @@ To deploy the `RanjanCoin` contract, specify the initial owner address. Upon dep
 ## License
 
 This contract is licensed under the MIT License.
-
----
